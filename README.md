@@ -1,3 +1,8 @@
+<ul>
+<li><a href="https://www.facebook.com/groups/24320765656/">IANC@Facebook</a></li>
+<li><a href="mailto:ianc.treasurer@gmail.com">Contact</a></li>
+</ul>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/iceland-usa/iceland-usa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
